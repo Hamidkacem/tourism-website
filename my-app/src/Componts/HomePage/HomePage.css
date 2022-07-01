@@ -1,0 +1,40 @@
+.text-Explore {
+  color: white;
+  display: flex;
+  flex-direction: column;
+  padding: 20%;
+}
+.container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 10%;
+}
+.btn-Explore {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: Lucida;
+  text-transform: uppercase;
+  font-size: 60%;
+  border-radius: 100%;
+  color: dimgrey;
+  height: 160px;
+  width: 160px;
+  background-color: white;
+}
+
+.Space {
+  font-size: 140px;
+  font-family: Lucida;
+  text-transform: uppercase;
+  padding: 0.1em;
+}
+
+.text-First-line {
+  text-transform: uppercase;
+  font-family: Lucida;
+  font-size: 25px;
+  display: flex;
+}

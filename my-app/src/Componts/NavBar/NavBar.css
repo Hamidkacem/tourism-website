@@ -1,0 +1,34 @@
+.NavBar {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  gap: 4em;
+  right: 50%;
+  justify-content: flex-end;
+  padding: 1.2em;
+  width: 50em;
+  background: rgba(255, 255, 255, 0.2);
+  border-radius: 6px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
+.Navbar {
+  padding: 1rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  font-family: Cambria;
+  text-transform: uppercase;
+  color: white;
+  gap: 2em;
+}
+.line {
+  width: 400px;
+  height: 1px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  background: rgba(255, 255, 255, 0.2);
+  background-color: white;
+  text-decoration-line: line-through;
+}

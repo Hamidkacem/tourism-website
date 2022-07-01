@@ -1,0 +1,6 @@
+Body{
+  position: absolute;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("../public/assets/home/background-home-desktop.jpg")
+}
